@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dewakoding Presensi
 ## Langkah-langkah Instalasi
 
@@ -37,6 +36,3 @@
     - Proyek Laravel Anda sekarang siap digunakan.
 
 Project siap digunakan
-=======
-# absensi
->>>>>>> 34390943ffc6037f6669b8f82c7f112a269b4c45
